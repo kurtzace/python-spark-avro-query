@@ -1,0 +1,5 @@
+pandas
+pyspark==3.1.2
+numpy
+fastapi==0.63.0
+uvicorn==0.13.4
